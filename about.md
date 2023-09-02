@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About me
-author: Rene Nicolas Bendoy
+author: denjixx
 permalink: /about/
 ---
 
