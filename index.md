@@ -11,4 +11,4 @@ See you later!
 ## 📝NEW POSTS!
 * [A New Dilemma](https://denjixx.github.io/blog/2023/09/02/dilemmas) on September 02, 2023
 
-<p align="center">*for updating...*</p>
+<p align="center"><i>Ite, finitum est.</i></p>
