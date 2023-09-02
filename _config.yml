@@ -4,4 +4,4 @@ title: Amaranth
 description: What if???
 
 #Global Permalinks
-permalinks: /:categories/:title/
+permalinks: /:title/
