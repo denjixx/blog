@@ -1,1 +1,17 @@
+#Site Settings
+lang: en-US
+title: Amaranth
+email: renznikko20@gmail.com
+description: "What if???"
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: ""  # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: Rene Nicolas Bendoy
+  twitter: denjixx
+  picture: 
+twitter_username: denjixx
+github_username: denjixx
+logo: 
+
+#Theme
 theme: jekyll-theme-minimal
