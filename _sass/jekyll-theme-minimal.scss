@@ -74,11 +74,11 @@ blockquote {
 code, pre {
   font-family: ui-monospace, monospace;
   color:#F19CBB;
-  font-size: 12px;
 }
 
 code {
   background-color: #343942;
+  font-size: 12px;
   color: #fff;
   padding: 0.2em 0.4em;
   border-radius: 6px;
@@ -87,9 +87,11 @@ code {
 pre {
   padding:8px 15px;
   background: #212121;
+  font-size: 11px;
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow: auto;
+  width: 700px;
 }
 
 table {
