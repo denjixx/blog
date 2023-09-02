@@ -8,7 +8,7 @@ See you later!
 
 ---
 
-## NEW POSTS!
-* [Dilemmas](https://denjixx.github.io/blog/2023/09/02/dilemmas) on September 02, 2023
+## 📝NEW POSTS!
+* [A New Dilemma](https://denjixx.github.io/blog/2023/09/02/dilemmas) on September 02, 2023
 
-*updating*
+<p align="center">*for updating...*</p>
