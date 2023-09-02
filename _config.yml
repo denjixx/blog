@@ -2,11 +2,3 @@
 theme: jekyll-theme-minimal
 title: Amaranth
 description: What if???
-
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
