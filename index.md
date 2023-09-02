@@ -9,7 +9,8 @@ See you later!
 ---
 
 ## 📝NEW POSTS!
-* [ETE3 Installation Guide for Ubuntu 22.10 WSL2](https://denjixx.github.io/blog/2023/09/02/ete3) on September 02, 2023
-* [A New Dilemma](https://denjixx.github.io/blog/2023/09/02/dilemmas) on September 02, 2023
+**SEPTEMBER 2023**
+* [ETE3 Installation Guide for Ubuntu 22.10 WSL2](https://denjixx.github.io/blog/2023/09/02/ete3) on 9/2/2023
+* [A New Dilemma](https://denjixx.github.io/blog/2023/09/02/dilemmas) on 9/2/2023
 
 <p align="center"><i>Ite, finitum est.</i></p>
