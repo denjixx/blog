@@ -2,3 +2,6 @@
 theme: jekyll-theme-minimal
 title: Amaranth
 description: What if???
+
+#Global Permalinks
+permalinks: /:categories/:title/
