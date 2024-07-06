@@ -5,7 +5,7 @@ author: denjixx
 date: 2024-07-06 23:15:40 +0800
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://d1jpo8rtg1c7nb.cloudfront.net/fileman/60ed0084bde02-S0410%20Front.png" />
 </p>
 
